@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GameSnake:jar3">
+    <output-path>$PROJECT_DIR$/out/artifacts/GameSnake_jar3</output-path>
+    <root id="archive" name="GameSnake.jar">
+      <element id="module-output" name="GameSnake" />
+      <element id="library" level="project" name="GameSnake" />
+    </root>
+  </artifact>
+</component>
